@@ -12,7 +12,7 @@ class LocalVariables3 {
 //        }
 //        System.out.println(x);
         LocalVariables3 s = new LocalVariables3();
-        System.out.println(s.sum());
-        System.out.println(LocalVariables3.sum(i));
+//        System.out.println(s.sum());
+//        System.out.println(LocalVariables3.sum(i));
     }
 }
